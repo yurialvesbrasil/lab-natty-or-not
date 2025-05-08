@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Vídeo de uma notícia fake usando ferramentas de IA
 
-## 🚀 Introdução
+## 🚀 Descrição
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste no desenvolvimento de um vídeo sobre uma notícia fake sobre *AGI (Artificial General Intelligence)*
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+O vídeo foi criado na ferramenta [Elai.io] (https://app.elai.io/) e o texto da fala do avatar foi criado no [ChatGPT](https://chatgpt.com/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Primeiro, escolhi um assunto interessante e pedi ao ChatGPT que criasse um breve resumo sobre ele. Em seguida, na ferramenta [Elai.io] (https://app.elai.io/), selecionei um avatar com aparência de um funcionário de uma empresa conceituada. Para ambientar, utilizei um cenário que remete a uma empresa da década de 1970 e adicionei um título relacionado ao tema do vídeo. No texto gerado, incluí algumas informações adicionais para reforçar a autoria do projeto. Por fim, solicitei à ferramenta [Elai.io] (https://app.elai.io/) a geração do vídeo, que ficou pronto para download em apenas dois minutos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O resultado foi um avatar dando a notícia de forma clara em um ambiente empresarial.
 
-### Exemplos e Insigths
+## 💭 Reflexão
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+As ferramentas de inteligência artificial estão produzindo conteúdos cada vez mais realistas, o que exige atenção redobrada com a disseminação de fake news. Por outro lado, as ferramentas de IA tem trazido grandes benefícios, acelerando tarefas que antes demandavam muito mais tempo e esforço para serem realizadas.
